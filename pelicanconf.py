@@ -17,6 +17,8 @@ THEME = 'theme'
 BOOTSTRAP_THEME = 'lumen'
 DISPLAY_CATEGORIES_ON_MENU = False
 FAVICON = 'theme/favicon.ico'
+# DISQUS_SITENAME = 'daimaduan-blog'
+# DISQUS_NO_ID = False
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
