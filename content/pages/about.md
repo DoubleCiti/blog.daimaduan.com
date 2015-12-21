@@ -17,15 +17,15 @@ Authors: David Xie
 
     这是代码段的预览版. 任何新的功能都会先放到这里供测试, 也开放给所有人, 但是我们不保证这里面没有任何bug, 也不保证任何数据都没有丢失. 所以如果你想尝试代码段的最近功能的话, 这里是你最好的去处.
 
+    访问[https://updown.io/xiur](https://updown.io/xiur)可以查看预览版目前的运行状态
+
 * [daimaduan.com](https://daimaduan.com)
 
     这是代码段的正式版. 所有在预览版测试过的功能, 都会部署在这里. 我们也保证, 这里的任何数据都不会丢失.
+
+    访问[https://updown.io/znbp](https://updown.io/znbp)可以查看预览版目前的运行状态
 
 #### 更多:
 
 * 如果想了解开发团队和如何加入开发这个问题的话, 请访问[加入开发](/pages/development/)这个页面.
 * 如果你有任何问题, 欢迎直接与我们联系. 我们的邮箱地址是: **info#daimaduan.com**
-
-#### 如果觉得我们做的还不错, 请支持我们一下
-
-<form name="atool_alipay_img_form" style="padding-bottom: 0;border:none;" method="post" action="https://shenghuo.alipay.com/send/payment/fill.htm" target="_blank" accept-charset="GBK" onsubmit="document.charset='gbk';"><input type="hidden" value="david.xie@me.com" name="optEmail"><input type="hidden" value="10" name="payAmount"><input type="hidden" name="title" placeholder="付款说明" value="觉得有用, 就支持我们一下, 让我们将来可以做得更好!"><input type="image" value="支付宝收款" src="http://www.atool.org/res/alipay_1.png" name="pay"></form>
