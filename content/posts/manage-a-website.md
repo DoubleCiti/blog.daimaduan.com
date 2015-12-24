@@ -1,6 +1,6 @@
 Title: 管理一个网站
 Date: 2015-12-20 16:14
-Slug: maange-a-webiste
+Slug: manage-a-webiste
 Authors: David Xie
 
 很多人感觉开发一个网站, 就是写写代码, 然后部署上去就ok了. 比如说这个人会`ruby on rails`, 那么他能很快的制作出一个管理todo list的网站, 然后购买heroku的服务部署上去, 这一切看上去都那么美好. 结果呢? 过了2个小时后, 他的网站如果由于代码错误而不能访问超过了1个星期, 而他自己一点都不知道.
