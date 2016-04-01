@@ -3,7 +3,7 @@ Date: 2016-04-01 20:11
 Slug: bookmark-feature
 Authors: David Xie
 
-v2.3版为大家带来了新的功能 - 收藏夹.
+v2.3版为大家带来了新的功能 - [收藏夹](https://daimaduan.com/bookmark/).
 
 相信大家都在代码段积累了一些代码集合了, 可是怎么能把我们的代码更好的组织在一起呢? 这里, 代码段提供的解决办法是收藏夹.
 
@@ -14,4 +14,4 @@ v2.3版为大家带来了新的功能 - 收藏夹.
 
 终于, 我们可以组织我们的代码集合了.
 
-新功能地址: [收藏夹](https://daimaduan.com/bookmark/)
+立刻尝试新功能: [收藏夹](https://daimaduan.com/bookmark/)
