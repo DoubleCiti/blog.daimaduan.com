@@ -12,7 +12,7 @@ env.deploy_path = 'output'
 DEPLOY_PATH = env.deploy_path
 
 # Remote server configuration
-production = 'daimaduan@blog.daimaduan.com:22'
+production = 'daimaduan@45.32.32.151:22'
 dest_path = '/var/www/daimaduan/blog'
 
 # Rackspace Cloud Files configuration settings
